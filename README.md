@@ -1,6 +1,6 @@
 Youtao Guo is a software engineer. He takes interest in c++ programming and computer network engineering.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=coyorkdow&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=coyorkdow&theme=dark&hide_title=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coyorkdow&theme=dark&layout=compact" />
 <br />
 
