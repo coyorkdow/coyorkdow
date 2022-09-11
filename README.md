@@ -1,4 +1,15 @@
-### Hi there 👋
+Youtao Guo is a software engineer. He takes interest in c++ programming and computer network engineering.
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=coyorkdow&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coyorkdow&theme=dark&layout=compact" />
+<br />
+
+- He used to be a competitive programmer when he was undergraduate.
+[![Badge](https://cp-logo.vercel.app/codeforces/coyorkdow)](https://codeforces.com/profile/coyorkdow)
+
+- He currently working at Bytedance/Tiktok Singapore.
+
+- He previously worked at Tencent WXG.
 
 <!--
 **coyorkdow/coyorkdow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
