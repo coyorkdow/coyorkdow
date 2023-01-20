@@ -8,6 +8,9 @@ Youtao Guo is a software engineer. He takes interest in c++ programming.
 
 - He previously worked at Tencent WXG.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **coyorkdow/coyorkdow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
