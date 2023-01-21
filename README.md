@@ -1,12 +1,18 @@
-Youtao Guo is a software engineer. He takes interest in c++ programming.
+Youtao Guo is a software engineer. He takes interest in C++ programming.
   
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=coyorkdow&theme=dark&layout=compact" />
 
-- He used to be a competitive programmer. [![Badge](https://cp-logo.vercel.app/codeforces/coyorkdow)](https://codeforces.com/profile/coyorkdow)
+- He used to be a competitive programmer. He won the silver medals in both the ICPC and CCPC reginonal contests. And he bacame purple on codeforces only in half a year.
 
-- He currently working at Bytedance/Tiktok Singapore.
+- He previously worked at Tencent WXG. At WXG he learned so much about C++ that he hopes oneday he can put "Master in C++" on his resume.
 
-- He previously worked at Tencent WXG.
+- He currently working at Bytedance/Tiktok Singapore. He uses C++ and GoLang in his daily work.
+
+- View him on [![Badge](https://img.shields.io/badge/linkedln-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youtaoguo/) &nbsp; [![Badge](https://img.shields.io/badge/stackoverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11139119/youtao-guo) &nbsp; [![Badge](https://cp-logo.vercel.app/codeforces/coyorkdow)](https://codeforces.com/profile/coyorkdow)
+
+- 💬 Ask him everything about C++ and competitive programming.
+
+- 📫 Reach him via email or social platforms.
 
 <!--START_SECTION:waka-->
 
