@@ -9,6 +9,13 @@ Youtao Guo is a software engineer. He takes interest in c++ programming.
 - He previously worked at Tencent WXG.
 
 <!--START_SECTION:waka-->
+
+```text
+C            4 mins          ███████████████████▓░░░░░   79.03 %
+ObjectiveC   1 min           █████░░░░░░░░░░░░░░░░░░░░   19.96 %
+C++          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
