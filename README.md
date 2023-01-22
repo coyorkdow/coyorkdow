@@ -2,7 +2,7 @@ Youtao Guo is a software engineer. He takes interest in C++ programming.
   
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=coyorkdow&theme=dark&layout=compact" />
 
-- He used to be a competitive programmer. He won the silver medals in both the ICPC and CCPC reginonal contests. And he bacame purple on Codeforces only in half a year.
+- He used to be a competitive programmer. He won the silver medals in both the ICPC and CCPC regional contests. And he bacame purple on Codeforces only in half a year.
 
 - He previously worked at Tencent WXG. At WXG he learned so much about C++ that he hopes oneday he can put "Master in C++" on his resume.
 
