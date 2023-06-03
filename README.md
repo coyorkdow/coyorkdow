@@ -18,7 +18,7 @@ Youtao Guo is a software engineer. He takes interest in C++ programming.
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
