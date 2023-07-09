@@ -19,11 +19,11 @@ Youtao Guo is a software engineer. He takes interest in C++ programming.
 <!--START_SECTION:waka-->
 
 ```txt
-C++              46 hrs 37 mins  ███████████████████████▓░   94.88 %
-CMake            1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Python           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Markdown         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Text             15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+C++              37 hrs 13 mins  ███████████████████████▓░   94.36 %
+CMake            57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Python           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Markdown         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Text             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
