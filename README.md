@@ -1,6 +1,7 @@
 Youtao Guo is a software engineer. He takes interest in C++ programming.
-  
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=coyorkdow&theme=dark&layout=compact" />
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=coyorkdow&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coyorkdow&theme=dark&layout=compact"/>
 
 - He used to be a competitive programmer. He won the silver medals in both the ICPC and CCPC regional contests. And he bacame purple on Codeforces only in half a year.
 
