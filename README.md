@@ -15,6 +15,12 @@ Youtao Guo is a software engineer. He takes interest in C++ programming.
 
 - 📫 Reach him via email or social platforms.
 
+## What's new
+
+I am working on a powerful C++ reflection and serization framework, which is non code generation, and is compatiable with native C++ syntax as much as possible. It is designed to provide a protobuf similar syntax and semantics, but everything is defined in C++'s headers & sources.
+
+Follow the https://github.com/coyorkdow/liteproto to receive my latest update.
+
 ## Coding statistics in last 7 days
 
 <!--START_SECTION:waka-->
