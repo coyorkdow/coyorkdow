@@ -26,11 +26,11 @@ Follow the https://github.com/coyorkdow/liteproto to receive my latest update.
 <!--START_SECTION:waka-->
 
 ```txt
-Python         9 hrs 14 mins   ██████████████████░░░░░░░   71.97 %
-C++            3 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
-Other          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Text           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-CMake          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Python         6 hrs 27 mins   ██████████████████░░░░░░░   72.66 %
+C++            1 hr 43 mins    █████░░░░░░░░░░░░░░░░░░░░   19.46 %
+JavaScript     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Other          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Text           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
