@@ -26,11 +26,11 @@ Follow the https://github.com/coyorkdow/liteproto to receive my latest update.
 <!--START_SECTION:waka-->
 
 ```txt
-Prolog     1 hr 1 min      █████████████████▒░░░░░░░   69.35 %
-YAML       13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-Go         12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Python     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Prolog     1 hr 1 min      ██████████████░░░░░░░░░░░   55.52 %
+C++        22 mins         █████░░░░░░░░░░░░░░░░░░░░   19.88 %
+YAML       13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+Go         12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+Python     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
