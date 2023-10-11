@@ -29,6 +29,7 @@ Follow the https://github.com/coyorkdow/liteproto to receive my latest update.
 C++         23 mins         ████████████████████████▓   99.30 %
 GDScript3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 C           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Python      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
