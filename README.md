@@ -19,7 +19,7 @@ Human Rights Matter!
 
 🇺🇦 Stand With Ukraine!
 
-🇵🇸 Free Palestiane!
+🇵🇸 Free Palestine!
 
 🏳️‍🌈🏳️‍⚧️ LGBT lives matter!
 
