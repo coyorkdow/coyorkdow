@@ -15,7 +15,7 @@ Youtao Guo is a software engineer. He takes interest in C++ programming.
 
 - 📫 Reach him via email or social platforms.
 
-Human Rights Matter! 
+Liberal. Progressive. Woke.
 
 🇺🇦 Stand With Ukraine!
 
