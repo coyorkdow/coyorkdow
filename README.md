@@ -36,9 +36,9 @@ Follow the https://github.com/coyorkdow/liteproto to receive my latest update.
 <!--START_SECTION:waka-->
 
 ```txt
-Docker   1 hr 9 mins     █████████████████████▓░░░   86.33 %
-Bash     6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-C++      4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Docker   1 hr 9 mins     ███████████████████████░░   91.74 %
+Bash     6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+C++      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
