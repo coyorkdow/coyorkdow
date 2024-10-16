@@ -36,8 +36,7 @@ Follow the https://github.com/coyorkdow/liteproto to receive my latest update.
 <!--START_SECTION:waka-->
 
 ```txt
-YAML    0 secs          █████████████████▓░░░░░░░   70.53 %
-Other   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
