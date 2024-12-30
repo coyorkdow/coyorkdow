@@ -31,8 +31,7 @@ Salute to every brave men and women who fight against the tryants for democracy 
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 14 mins    ██████████████████████▓░░   90.29 %
-YAML     8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+YAML   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
