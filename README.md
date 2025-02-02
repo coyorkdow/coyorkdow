@@ -31,11 +31,11 @@ Salute to every brave men and women who fight against the tryants for democracy 
 <!--START_SECTION:waka-->
 
 ```txt
-C++          3 hrs 41 mins   ███████████████████▓░░░░░   78.04 %
-Markdown     29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-CMake        13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-SSH Config   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Go           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+C++          2 hrs 19 mins   █████████████████▒░░░░░░░   69.17 %
+Markdown     29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+CMake        13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+SSH Config   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Go           6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
