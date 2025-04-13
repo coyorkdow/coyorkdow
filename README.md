@@ -31,9 +31,8 @@ Salute to every brave men and women who fight against the tryants for democracy 
 <!--START_SECTION:waka-->
 
 ```txt
-C++     1 hr 2 mins     ███████████████████▓░░░░░   78.99 %
-Go      16 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+C++   36 mins         █████████████████▒░░░░░░░   69.01 %
+Go    16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.99 %
 ```
 
 <!--END_SECTION:waka-->
