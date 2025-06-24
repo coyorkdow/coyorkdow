@@ -31,11 +31,11 @@ Salute to every brave men and women who fight against the tryants for democracy 
 <!--START_SECTION:waka-->
 
 ```txt
-Docker             1 hr 51 mins    ███████████▓░░░░░░░░░░░░░   46.95 %
-Go                 1 hr 43 mins    ███████████░░░░░░░░░░░░░░   43.46 %
-YAML               13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Other              5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-C++                2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Docker             2 hrs 11 mins   ██████████████▒░░░░░░░░░░   57.77 %
+Go                 1 hr 13 mins    ████████░░░░░░░░░░░░░░░░░   32.19 %
+YAML               13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Other              5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+C++                2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
