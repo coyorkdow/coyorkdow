@@ -31,11 +31,11 @@ Salute to every brave men and women who fight against the tryants for democracy 
 <!--START_SECTION:waka-->
 
 ```txt
-Go       31 mins         ████████▒░░░░░░░░░░░░░░░░   32.93 %
-Other    27 mins         ███████░░░░░░░░░░░░░░░░░░   28.51 %
-Bash     20 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
-YAML     16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other    27 mins         ████████░░░░░░░░░░░░░░░░░   32.49 %
+Bash     20 mins         ██████░░░░░░░░░░░░░░░░░░░   24.42 %
+Go       19 mins         ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+YAML     16 mins         █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
