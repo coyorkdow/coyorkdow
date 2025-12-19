@@ -5,9 +5,9 @@ Youtao Guo is a software engineer. He takes interest in C++ programming.
 
 - He used to be a competitive programmer. He won the silver medals in both the ICPC and CCPC regional contests. And he bacame purple on Codeforces only in half a year.
 
-- He previously worked at Tencent WXG. At WXG he learned so much about C++ that he hopes oneday he can put "Master in C++" on his resume.
+- He previously worked at Tencent WXG. At WXG he learned so much about C++ that he hoped one day he can put "A C++ Expert" on his resume.
 
-- He currently working at Bytedance/Tiktok Singapore. He uses C++ and GoLang in his daily work.
+- He worked at Bytedance/Tiktok Singapore during 2022 to 2025. He used C++ and GoLang in his daily work.
 
 - View him on [![Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youtaoguo/) &nbsp; [![Badge](https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11139119/youtao-guo) &nbsp; [![Badge](https://cp-logo.vercel.app/codeforces/coyorkdow)](https://codeforces.com/profile/coyorkdow)
 
